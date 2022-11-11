@@ -1,0 +1,17 @@
+body{
+    background-image: url('./joshua-reddekopp-SyYmXSDnJ54-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    color: darkorange;
+    width: 1000px;
+    height: 300px;
+    position: relative;
+    right:50%;
+    left: 25%;
+    top: 9cm;
+    font-size: 100px;
+   
+}
